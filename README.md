@@ -6,7 +6,7 @@
 - 🌱 Feel free to check all my projects and contact me for any questions!
 
 
-- 👨‍💻 You can see my Portfolio here: [https://guidocalciano.com.ar/](https://guidocalciano.com.ar/)
+- 👨‍💻 You can see find Portfolio here: [https://guidocalciano.com.ar/](https://guidocalciano.com.ar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
