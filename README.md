@@ -2,11 +2,11 @@
 <h3 align="center">A Web Developer from Buenos Aires, Argentina</h3>
 
 
-<p align="center">- 💬 Welcome to my GitHub! Here you will find my latest content and new updates.
-- 🌱 Feel free to check all my projects and contact me for any questions!
+<p align="center">- 💬 Welcome to my GitHub! Here you will find my latest content and new updates.</p>
+<p align="center">- 🌱 Feel free to check all my projects and contact me for any questions!</p>
 
 
-- 👨‍💻 You can see find Portfolio here: [https://guidocalciano.com.ar/](https://guidocalciano.com.ar/)</p>
+- 👨‍💻 You can see find Portfolio here: [https://guidocalciano.com.ar/](https://guidocalciano.com.ar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
