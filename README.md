@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer from Buenos Aires, Argentina</h3>
 
 
-<p align="center">- 💬 Here you will find my latest content and new updates. 🌱 Feel free to check all my projects and contact me for any questions!</p>
+<p align="center">- 🌱 Here you will find my latest content and new updates. Feel free to check all my projects and contact me for any questions!</p>
 <p align="center">- 👨‍💻 You can find my Portfolio here: https://guidocalciano.com.ar/</p>
 
 <h3 align="left">Connect with me:</h3>
