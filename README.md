@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer from Buenos Aires, Argentina</h3>
 
 
-- 💬 Hi! My name is Guido and I've been working with human groups and teams of professionals in Education for the last 10 years, always giving everything from myself to exceed at the task. Communication, flexibility and looking for consensus was an essential part of my job.
+- 💬 I've been working with human groups and teams of professionals in Education for the last 10 years, always giving everything from myself to exceed at the task. Communication, flexibility and looking for consensus was an essential part of my job.
 - 🌱 In 2021 I've taken my first steps into IT, and I'm excited to keep on studying, learning and improving every day. I'm reliable and responsible, adaptable and great at teamwork. I'm currently looking for my first job in IT, searching for opportunities to develop my full potential and bring my aptitudes for an exciting new project! Contact me for any questions!
 - 📫 Contact me for any questions!
 
