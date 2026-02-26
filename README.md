@@ -3,8 +3,8 @@
 
 
 <p align="center">- 🌱 Here you will find my latest content and new updates. Feel free to check all my projects and contact me for any questions!</p>
-<p align="center">- ⚡ You can find my Portfolio here: https://guidocalciano.com.ar/</p>
-<p align="center">- 📄 Or click here for my Linkedin: https://www.linkedin.com/in/guidocalciano/</p>
+<p align="center">- ⚡ You can find my Linkedin here:
+https://www.linkedin.com/in/guidocalciano/</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
